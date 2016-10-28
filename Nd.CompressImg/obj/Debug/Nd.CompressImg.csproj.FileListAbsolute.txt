@@ -1,0 +1,13 @@
+D:\test Project\Nd.CompressImg\Nd.CompressImg\bin\Debug\Nd.CompressImg.exe.config
+D:\test Project\Nd.CompressImg\Nd.CompressImg\bin\Debug\Nd.CompressImg.exe
+D:\test Project\Nd.CompressImg\Nd.CompressImg\bin\Debug\Nd.CompressImg.pdb
+D:\test Project\Nd.CompressImg\Nd.CompressImg\obj\Debug\Nd.CompressImg.Form1.resources
+D:\test Project\Nd.CompressImg\Nd.CompressImg\obj\Debug\Nd.CompressImg.Properties.Resources.resources
+D:\test Project\Nd.CompressImg\Nd.CompressImg\obj\Debug\Nd.CompressImg.csproj.GenerateResource.Cache
+D:\test Project\Nd.CompressImg\Nd.CompressImg\obj\Debug\Nd.CompressImg.exe
+D:\test Project\Nd.CompressImg\Nd.CompressImg\obj\Debug\Nd.CompressImg.pdb
+D:\test Project\Nd.CompressImg\Nd.CompressImg\bin\Debug\Nd.CompressImg.exe.manifest
+D:\test Project\Nd.CompressImg\Nd.CompressImg\bin\Debug\Nd.CompressImg.application
+D:\test Project\Nd.CompressImg\Nd.CompressImg\obj\Debug\Nd.CompressImg.exe.manifest
+D:\test Project\Nd.CompressImg\Nd.CompressImg\obj\Debug\Nd.CompressImg.application
+D:\test Project\Nd.CompressImg\Nd.CompressImg\obj\Debug\Nd.CompressImg.csprojResolveAssemblyReference.cache

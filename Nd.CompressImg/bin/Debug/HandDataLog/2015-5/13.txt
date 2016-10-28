@@ -1,0 +1,6 @@
+压缩不成功,路径名：E:\上传图片\引导页压缩后\1.png错误信息:GDI+ 中发生一般性错误。,堆栈:   在 System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 Nd.CompressImg.handler.HandlerForImg.GetPicThumbnail(String sFile, String dFile, String& errMsg, Int32 dHeight, Int32 dWidth, Int32 flag) 位置 d:\test Project\Nd.CompressImg\Nd.CompressImg\handler\HandlerForImg.cs:行号 221InnerException:
+压缩不成功,路径名：E:\上传图片\引导页压缩后\2.png错误信息:GDI+ 中发生一般性错误。,堆栈:   在 System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 Nd.CompressImg.handler.HandlerForImg.GetPicThumbnail(String sFile, String dFile, String& errMsg, Int32 dHeight, Int32 dWidth, Int32 flag) 位置 d:\test Project\Nd.CompressImg\Nd.CompressImg\handler\HandlerForImg.cs:行号 221InnerException:
+压缩不成功,路径名：E:\上传图片\引导页压缩后\3.png错误信息:GDI+ 中发生一般性错误。,堆栈:   在 System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 Nd.CompressImg.handler.HandlerForImg.GetPicThumbnail(String sFile, String dFile, String& errMsg, Int32 dHeight, Int32 dWidth, Int32 flag) 位置 d:\test Project\Nd.CompressImg\Nd.CompressImg\handler\HandlerForImg.cs:行号 221InnerException:

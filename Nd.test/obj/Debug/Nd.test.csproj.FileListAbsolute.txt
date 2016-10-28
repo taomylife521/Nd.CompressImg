@@ -1,0 +1,6 @@
+D:\test Project\Nd.CompressImg\Nd.test\bin\Debug\Nd.test.exe.config
+D:\test Project\Nd.CompressImg\Nd.test\bin\Debug\Nd.test.exe
+D:\test Project\Nd.CompressImg\Nd.test\bin\Debug\Nd.test.pdb
+D:\test Project\Nd.CompressImg\Nd.test\obj\Debug\Nd.test.exe
+D:\test Project\Nd.CompressImg\Nd.test\obj\Debug\Nd.test.pdb
+D:\test Project\Nd.CompressImg\Nd.test\obj\Debug\Nd.test.csprojResolveAssemblyReference.cache
